@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    background-image:linear-gradient(#090a11,#242935);
+    color: white;
+    height: 100%;
+   
+}
+.box{
+    margin: 0;
+    background-color: #090a11;
+    width: 100%;
+    opacity: 0.90;
+}
+.box_cabecalho{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5% 0 5%;
+    color: white;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box_cabecalho-titulo{
+    color: red;
+}
+.box_cabecalho_nav_lista-ul{
+    display: flex;
+}
+li{
+    color: #c5c6c7;
+
+    list-style-type: none;
+}
+.box_cabecalho_nav-lista-li_modelos{
+    color: red;
+
+}
+img{
+    width: 45%;
+    height: 45%;
+    margin: 0 3%;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    color: ;
+}
+h1{
+    font-size: 46px;
+}
+
+.conteudo_texto2{
+    display: flex;
+}
+.conteudo_texto3{
+    display: flex;
+}
+.conteudo_texto4{
+    display: flex;
+}
+
